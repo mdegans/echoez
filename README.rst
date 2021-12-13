@@ -2,6 +2,8 @@
 Echoez
 ======
 
+Note: This project is archived and won't be maintained. Do with it what you will. There is at least one security issue (pip requirement in requirements.txt as of reading). I don't recall why that's even there. In any case. I don't need this anymore and am abandoning it.
+
 
 .. image:: https://img.shields.io/pypi/v/echoez.svg
         :target: https://pypi.python.org/pypi/echoez
